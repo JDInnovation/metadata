@@ -1,0 +1,40 @@
+{
+    "name": "O caralho que ta foda",
+    "symbol": "LBA",
+    "description": "Art inspired in Mia Malkova Anus",
+    "seller_fee_basis_points": 100,
+    "image": "https://raw.githubusercontent.com/JDInnovation/metadata/main/PNG%20DEVELOPERS.png",
+    "attributes": [
+      {
+        "trait_type": "web",
+        "value": "yes"
+      },
+      {
+        "trait_type": "mobile",
+        "value": "yes"
+     },
+     {
+        "trait_type": "extension",
+        "value": "yes"
+      }
+    ],
+    "collection": {
+       "name": "La Bel Anus",
+       "family": "La Galerie Des Nfts" 
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "DEV3UEot2x5oir3nziTmSXfLqsUKkPEc23Egw1waNjZP",
+          "share": 100
+        }
+      ]
+    }
+  }
